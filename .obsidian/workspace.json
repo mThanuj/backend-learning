@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "1005736436f53146",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe291d18a8e3632f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c8b12658c8c4cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Concepts/Constraint.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constraint"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76bfc993e99ad6ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "613c297d85998098",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "207ed564633ee106",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f4ccf4722c91a9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#type/concept",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "03318aaa6a572c03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "464843ec321dfa07",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c82ca5edc65f8bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52c15d1dc49470e4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e25c9b54dc980b92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2931e9cad15aa48e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "931c56be5f108ec3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c25c3ff6d2ccb665",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "54a83fffdaf6da2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "49f81bed746918a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 800.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d1c8b12658c8c4cd",
+  "lastOpenFiles": [
+    "02_Concepts/Docker Compose.md",
+    "02_Concepts/DockerFile.md",
+    "01_MOCs/Docker.md",
+    "02_Concepts/Docker Container.md",
+    "02_Concepts/Docker Image.md",
+    "02_Concepts/PostgreSQL.md",
+    "01_MOCs/Database.md",
+    "01_MOCs/Spring Boot.md",
+    "01_MOCs/Untitled.md",
+    "02_Concepts/Liquibase.md",
+    "02_Concepts/GenerationType.md",
+    "02_Concepts/@GeneratedValue.md",
+    "02_Concepts/Constraint.md",
+    "02_Concepts/Entity.md",
+    "02_Concepts/Foreign Key.md",
+    "02_Concepts/Primary Key.md",
+    "03_Projects/Enterprise Content Board.md",
+    "Untitled.canvas",
+    "00_System/Templates/MOC Template.md",
+    "02_Concepts/2026-05-17.md",
+    "00_System/Templates/Concept Template.md",
+    "02_Concepts/Constriant.md",
+    "00_System/Templates/Project Template.md",
+    "03_Projects/Nexus.md",
+    "00_System/Templates/dwdw.md",
+    "02_Concepts/Some.md",
+    "Untitled.md",
+    "Assets",
+    "03_Projects",
+    "02_Concepts",
+    "01_MOCs",
+    "00_System/Templates",
+    "00_System"
+  ]
+}

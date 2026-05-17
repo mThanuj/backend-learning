@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "02_Concepts",
+  "userIgnoreFilters": [
+    "00_System/"
+  ],
+  "attachmentFolderPath": "Assets",
+  "spellcheck": false
+}
