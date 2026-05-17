@@ -20,6 +20,7 @@ tags:
 	- ports: The ports to use in the network.
 		- Format: HOST:CONTAINER
 	- environment: Environment Variables.
+	- depends_on: Whatever container name is given here, this current container waits for it to start up first.
 
 ## 🛠️ Syntax / Code Example
 ```DockerCompose
@@ -42,6 +43,10 @@ services:
       POSTGRES_PASSWORD: password
     ports:
       - "5432:5432"
+```
+
+```bash
+docker compose up
 ```
 
 ## 🔗 Related Concepts
