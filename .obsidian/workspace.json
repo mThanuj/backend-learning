@@ -202,11 +202,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52c15d1dc49470e4",
+  "active": "207ed564633ee106",
   "lastOpenFiles": [
+    "00_System/Scripts/sortList.js",
+    "00_System/Scripts",
     "02_Concepts/@UpdatedTimestamp.md",
     "01_MOCs/Docker.md",
     "01_MOCs/Spring Boot.md",
