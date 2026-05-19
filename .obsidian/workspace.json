@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Entity.md",
+                "file": "00_System/Templates/Concept Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entity"
+              "title": "Concept Template"
             }
           },
           {
@@ -208,9 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "207ed564633ee106",
+  "active": "15650ef8f798370e",
   "lastOpenFiles": [
+    "02_Concepts/Entity.md",
     "00_System/Templates/Concept Template.md",
+    "02_Concepts/Foreign Key.md",
     "00_System/Scripts/sortList.js",
     "00_System/Scripts",
     "02_Concepts/@UpdatedTimestamp.md",
@@ -219,7 +221,6 @@
     "00_System/Scripts/sortRelatedConcepts.js",
     "00_System/Scripts/New Text Document.txt",
     "00_System/Scripts",
-    "02_Concepts/Entity.md",
     "02_Concepts/@CreationTimestamp.md",
     "02_Concepts/@GeneratedValue.md",
     "02_Concepts/Primary Key.md",
@@ -227,7 +228,6 @@
     "03_Projects/Enterprise Content Board.md",
     "02_Concepts/Constraint.md",
     "02_Concepts/DockerFile.md",
-    "02_Concepts/Foreign Key.md",
     "02_Concepts/PostgreSQL.md",
     "02_Concepts/Liquibase.md",
     "02_Concepts/Docker Compose.md",

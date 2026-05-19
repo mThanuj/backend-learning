@@ -15,7 +15,7 @@ module.exports = async function (tp) {
 
     while (
         i < lines.length &&
-        lines[i].trim().startsWith("- ")
+        lines[i].trimStart().startsWith("- ")
     ) {
         related.push(lines[i]);
         i++;
