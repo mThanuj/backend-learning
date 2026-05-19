@@ -1,4 +1,6 @@
 module.exports = async (tp) => {
+    
+    console.log("hello");
     const file = app.workspace.getActiveFile();
     let content = await app.vault.read(file);
 

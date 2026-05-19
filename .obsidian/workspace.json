@@ -114,6 +114,83 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "f0b55016a3ddb0bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_MOCs/Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Docker"
+            }
+          },
+          {
+            "id": "a781b226f7c679a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_MOCs/Docker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Docker"
+            }
+          },
+          {
+            "id": "6483810fba27d919",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "be13312631c92186",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1c781e85888d3c66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_MOCs/Docker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docker"
+            }
           }
         ]
       }
@@ -137,6 +214,8 @@
   },
   "active": "2cf562f7bf0162dd",
   "lastOpenFiles": [
+    "01_MOCs/Spring Boot.md",
+    "01_MOCs/Docker.md",
     "00_System/Scripts/sortRelatedConcepts.js",
     "00_System/Scripts/New Text Document.txt",
     "00_System/Scripts",
@@ -145,7 +224,6 @@
     "02_Concepts/@CreationTimestamp.md",
     "02_Concepts/@GeneratedValue.md",
     "02_Concepts/@UpdatedTimestamp.md",
-    "01_MOCs/Spring Boot.md",
     "02_Concepts/Primary Key.md",
     "Readme.md",
     "03_Projects/Enterprise Content Board.md",
@@ -157,7 +235,6 @@
     "02_Concepts/Docker Compose.md",
     "02_Concepts/Docker Container.md",
     "02_Concepts/Docker Image.md",
-    "01_MOCs/Docker.md",
     "01_MOCs/Database.md",
     "01_MOCs/Untitled.md",
     "02_Concepts/GenerationType.md",
