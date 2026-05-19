@@ -4,10 +4,6 @@ tags:
   - type/concept
   - type/annotations
 ---
----
-alphabullet: Related
----
-
 # @UpdatedTimestamp
 
 ## 💡 TL;DR
