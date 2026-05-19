@@ -192,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.5
+    "width": 442.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15650ef8f798370e",
+  "active": "207ed564633ee106",
   "lastOpenFiles": [
     "00_System/Templates/Concept Template.md",
     "00_System/Scripts/sortList.js",

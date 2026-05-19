@@ -18,7 +18,7 @@ tags:
 ```
 
 ## 🔗 Related Concepts
-	<%* await tp.user.sortRelatedConcepts(tp) %>
+<%* await tp.user.sortRelatedConcepts(tp) %>
 - [[Constraint]]
 - [[@GeneratedValue]]
 - [[@UpdatedTimestamp]]
