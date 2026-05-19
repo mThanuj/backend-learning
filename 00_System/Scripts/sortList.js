@@ -1,22 +1,38 @@
 module.exports = async function (tp) {
-    const editor = app.workspace.activeEditor.editor;
+    const file = tp.config.target_file;
+    const content = await app.vault.read(file);
 
-    const selected = editor.getSelection();
+    const lines = content.split("\n");
 
-    if (!selected) {
-        new Notice("Select a list first");
-        return;
+    const startIndex = lines.findIndex(
+        line => line.trim() === "## 🔗 Related Concepts"
+    );
+
+    if (startIndex === -1) return;
+
+    let i = startIndex + 1;
+    const related = [];
+
+    while (
+        i < lines.length &&
+        lines[i].trim().startsWith("- ")
+    ) {
+        related.push(lines[i]);
+        i++;
     }
 
-    const lines = selected
-        .split("\n")
-        .filter(line => line.trim() !== "");
-
-    const sorted = lines.sort((a, b) =>
+    const sorted = related.sort((a, b) =>
         a.localeCompare(b)
     );
 
-    editor.replaceSelection(sorted.join("\n"));
+    lines.splice(
+        startIndex + 1,
+        related.length,
+        ...sorted
+    );
 
-    new Notice("List sorted!");
+    await app.vault.modify(
+        file,
+        lines.join("\n")
+    );
 }
