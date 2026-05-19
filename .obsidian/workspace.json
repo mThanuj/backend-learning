@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_System/Templates/Concept Template.md",
+                "file": "01_MOCs/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept Template"
+              "title": "Docker"
             }
           }
         ],
@@ -135,8 +135,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cf562f7bf0162dd",
+  "active": "207ed564633ee106",
   "lastOpenFiles": [
+    "00_System/Scripts",
+    "00_System/Templates/Concept Template.md",
     "02_Concepts/Entity.md",
     "02_Concepts/@CreationTimestamp.md",
     "02_Concepts/@GeneratedValue.md",
@@ -160,10 +162,8 @@
     "Untitled.canvas",
     "00_System/Templates/MOC Template.md",
     "02_Concepts/2026-05-17.md",
-    "00_System/Templates/Concept Template.md",
     "02_Concepts/Constriant.md",
     "00_System/Templates/Project Template.md",
-    "03_Projects/Nexus.md",
     "Assets",
     "03_Projects",
     "02_Concepts",
