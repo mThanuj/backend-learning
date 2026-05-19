@@ -1,0 +1,11 @@
+{
+  "sml_sort": true,
+  "sml_descending": false,
+  "sml_glossary": false,
+  "sml_level": 3,
+  "sml_glossary_desc": false,
+  "editorMenu": {
+    "enabled": true,
+    "onlyFrontmatter": false
+  }
+}

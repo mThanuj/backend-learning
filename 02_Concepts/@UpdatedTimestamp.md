@@ -4,6 +4,10 @@ tags:
   - type/concept
   - type/annotations
 ---
+---
+alphabullet: Related
+---
+
 # @UpdatedTimestamp
 
 ## 💡 TL;DR
@@ -15,7 +19,7 @@ tags:
 
 ```
 
-## 🔗 Related Concepts
+## 🔗 Related
 - One
 - Two
 - Animal
