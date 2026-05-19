@@ -91,6 +91,34 @@ Rather than only consuming tutorials, the aim is to:
 
 ---
 
+## 📝 Using This Repository as an Obsidian Vault
+
+This repository is designed to work as an **Obsidian Vault** for interconnected learning and knowledge management.
+
+### Recommended Workflow
+- Create notes while learning concepts
+- Link related topics together
+- Maintain MOCs (Maps of Content)
+- Document debugging experiences and fixes
+- Store reusable snippets and references
+- Continuously refine notes over time
+
+### How to Open
+1. Install Obsidian
+2. Clone this repository
+3. Open the repository folder as a vault in Obsidian
+
+### Suggested Obsidian Features
+- Graph View for visualizing concept connections
+- Backlinks for related topics
+- Tags for categorization
+- Templates for consistent note structure
+- MOCs for high-level navigation
+
+The vault is intended to evolve into a connected backend engineering knowledge graph rather than just a collection of isolated notes.
+
+---
+
 ## 🚀 Why This Repository Exists
 
 Keeping this repository public helps me:
