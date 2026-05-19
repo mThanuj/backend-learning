@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_System/Templates/Concept Template.md",
+                "file": "02_Concepts/Entity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept Template"
+              "title": "Entity"
             }
           },
           {
@@ -210,6 +210,8 @@
   },
   "active": "15650ef8f798370e",
   "lastOpenFiles": [
+    "02_Concepts/DockerFile.md",
+    "02_Concepts/Apple.md",
     "02_Concepts/Entity.md",
     "00_System/Templates/Concept Template.md",
     "02_Concepts/Foreign Key.md",
@@ -227,7 +229,6 @@
     "Readme.md",
     "03_Projects/Enterprise Content Board.md",
     "02_Concepts/Constraint.md",
-    "02_Concepts/DockerFile.md",
     "02_Concepts/PostgreSQL.md",
     "02_Concepts/Liquibase.md",
     "02_Concepts/Docker Compose.md",

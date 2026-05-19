@@ -2,6 +2,8 @@ module.exports = async function (tp) {
     const file = tp.config.target_file;
     const content = await app.vault.read(file);
 
+    console.log('hello')
+
     const lines = content.split("\n");
 
     const startIndex = lines.findIndex(
