@@ -16,6 +16,6 @@ tags:
 ```
 
 ## 🔗 Related Concepts
-- Animal
 - One
 - Two
+- Animal
