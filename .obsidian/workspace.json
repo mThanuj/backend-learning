@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Primary Key.md",
+                "file": "02_Concepts/@UpdatedTimestamp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Primary Key"
+              "title": "@UpdatedTimestamp"
             }
           }
         ]
@@ -120,15 +120,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15650ef8f798370e",
+  "active": "52c15d1dc49470e4",
   "lastOpenFiles": [
+    "02_Concepts/@UpdatedTimestamp.md",
+    "02_Concepts/Entity.md",
+    "01_MOCs/Spring Boot.md",
+    "02_Concepts/Primary Key.md",
     "Readme.md",
     "03_Projects/Enterprise Content Board.md",
     "02_Concepts/Constraint.md",
     "02_Concepts/DockerFile.md",
-    "02_Concepts/Entity.md",
     "02_Concepts/Foreign Key.md",
-    "02_Concepts/Primary Key.md",
     "02_Concepts/PostgreSQL.md",
     "02_Concepts/Liquibase.md",
     "02_Concepts/@GeneratedValue.md",
@@ -137,7 +139,6 @@
     "02_Concepts/Docker Image.md",
     "01_MOCs/Docker.md",
     "01_MOCs/Database.md",
-    "01_MOCs/Spring Boot.md",
     "01_MOCs/Untitled.md",
     "02_Concepts/GenerationType.md",
     "Untitled.canvas",
@@ -148,7 +149,6 @@
     "00_System/Templates/Project Template.md",
     "03_Projects/Nexus.md",
     "00_System/Templates/dwdw.md",
-    "02_Concepts/Some.md",
     "Assets",
     "03_Projects",
     "02_Concepts",

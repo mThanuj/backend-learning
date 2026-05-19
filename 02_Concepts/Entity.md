@@ -20,3 +20,4 @@ tags:
 ## 🔗 Related Concepts
 - [[Constraint]]
 - [[@GeneratedValue]]
+- [[@UpdatedTimestamp]]

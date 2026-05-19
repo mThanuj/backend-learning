@@ -1,0 +1,19 @@
+---
+date: 2026-05-19 13:23
+tags:
+  - type/concept
+  - type/annotations
+---
+# @UpdatedTimestamp
+
+## 💡 TL;DR
+- This is used on a column in an entity so that, whenever the row is updated, the timestamp can be stored in that specific column.
+- This is useful to skip some 
+
+## 🛠️ Syntax / Code Example
+```java
+
+```
+
+## 🔗 Related Concepts
+- 
