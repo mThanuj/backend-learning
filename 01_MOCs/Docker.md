@@ -10,11 +10,11 @@ tags:
 ---
 
 ## 🏗️ Core Concepts
-- [[Docker Image]]
-- [[Docker Container]]
-- [[Docker Image]]
-- [[DockerFile]]
 - [[Docker Compose]]
+- [[Docker Container]]
+- [[DockerFile]]
+- [[Docker Image]]
+- [[Docker Image]]
 
 ## 🛠️ Configuration & Syntax
 - [[PostgreSQL]]
