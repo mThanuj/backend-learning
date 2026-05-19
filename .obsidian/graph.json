@@ -32,7 +32,7 @@
       "query": "tag:#type/project  ",
       "color": {
         "a": 1,
-        "rgb": 5431439
+        "rgb": 2546173
       }
     }
   ],
@@ -46,6 +46,6 @@
   "repelStrength": 18.091430467521,
   "linkStrength": 0.75,
   "linkDistance": 47,
-  "scale": 0.2588386562181597,
+  "scale": 0.2588386562181591,
   "close": true
 }

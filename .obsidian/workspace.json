@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Docker Compose.md",
+                "file": "02_Concepts/DockerFile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Compose"
+              "title": "DockerFile"
             }
           }
         ]
@@ -99,98 +99,12 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "e25c9b54dc980b92",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "2931e9cad15aa48e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "931c56be5f108ec3",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "c25c3ff6d2ccb665",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "54a83fffdaf6da2e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02_Concepts/Docker Compose.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Docker Compose"
-            }
-          },
-          {
-            "id": "5d040dfd24616c7a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 800.5
+    "width": 804.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,11 +122,11 @@
   },
   "active": "a03a6a394c5553bb",
   "lastOpenFiles": [
+    "02_Concepts/Docker Compose.md",
     "02_Concepts/Docker Image.md",
     "02_Concepts/DockerFile.md",
     "02_Concepts/Foreign Key.md",
     "02_Concepts/Constraint.md",
-    "02_Concepts/Docker Compose.md",
     "01_MOCs/Docker.md",
     "02_Concepts/Docker Container.md",
     "02_Concepts/PostgreSQL.md",
