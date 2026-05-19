@@ -120,11 +120,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a03a6a394c5553bb",
+  "active": "52c15d1dc49470e4",
   "lastOpenFiles": [
+    "02_Concepts/DockerFile.md",
     "02_Concepts/Docker Compose.md",
     "02_Concepts/Docker Image.md",
-    "02_Concepts/DockerFile.md",
     "02_Concepts/Foreign Key.md",
     "02_Concepts/Constraint.md",
     "01_MOCs/Docker.md",
