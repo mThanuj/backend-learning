@@ -120,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Concepts/@UpdatedTimestamp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @UpdatedTimestamp"
+              "title": "Backlinks"
             }
           },
           {
@@ -139,12 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Concepts/@UpdatedTimestamp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from @UpdatedTimestamp"
+              "title": "Outgoing links"
             }
           },
           {
@@ -182,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_Concepts/@UpdatedTimestamp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of @UpdatedTimestamp"
+              "title": "Outline"
             }
           }
         ]
@@ -205,14 +202,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "graph:Open graph view": false
     }
   },
-  "active": "15650ef8f798370e",
+  "active": "52c15d1dc49470e4",
   "lastOpenFiles": [
+    "02_Concepts/@UpdatedTimestamp.md",
     "01_MOCs/Docker.md",
     "01_MOCs/Spring Boot.md",
     "00_System/Scripts/sortRelatedConcepts.js",
@@ -222,7 +217,6 @@
     "02_Concepts/Entity.md",
     "02_Concepts/@CreationTimestamp.md",
     "02_Concepts/@GeneratedValue.md",
-    "02_Concepts/@UpdatedTimestamp.md",
     "02_Concepts/Primary Key.md",
     "Readme.md",
     "03_Projects/Enterprise Content Board.md",
