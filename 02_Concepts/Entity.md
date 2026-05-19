@@ -21,3 +21,4 @@ tags:
 - [[Constraint]]
 - [[@GeneratedValue]]
 - [[@UpdatedTimestamp]]
+- [[@CreationTimestamp]]
