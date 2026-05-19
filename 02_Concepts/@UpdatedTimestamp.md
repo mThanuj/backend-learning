@@ -7,7 +7,7 @@ tags:
 # @UpdatedTimestamp
 
 ## 💡 TL;DR
-- This is used on a column in an entity so that, whenever the row is updated, the timestamp can be stored in that specific column.
+- This is usxed on a column in an entity so that, whenever the row is updated, the timestamp can be stored in that specific column.
 - This is useful to skip some boilerplate code.
 
 ## 🛠️ Syntax / Code Example
@@ -16,4 +16,6 @@ tags:
 ```
 
 ## 🔗 Related Concepts
-- 
+- Animal
+- One
+- Two
