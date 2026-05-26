@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Projects/Enterprise Content Board.md",
+                "file": "02_Concepts/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enterprise Content Board"
+              "title": "Redis"
             }
           }
         ]
@@ -166,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Projects/Enterprise Content Board.md",
+                "file": "02_Concepts/Redis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Enterprise Content Board"
+              "title": "Outline of Redis"
             }
           },
           {
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 509.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,12 +209,14 @@
   },
   "active": "9314520cb04430d4",
   "lastOpenFiles": [
-    "02_Concepts/Redis.md",
-    "02_Concepts/Primary Key.md",
-    "01_MOCs/Spring Boot.md",
+    "Readme.md",
+    "03_Projects/Enterprise Content Board.md",
     "01_MOCs/Caching.md",
     "01_MOCs/Database.md",
     "01_MOCs/Docker.md",
+    "01_MOCs/Spring Boot.md",
+    "02_Concepts/Redis.md",
+    "02_Concepts/Primary Key.md",
     "02_Concepts/Entity.md",
     "02_Concepts/DockerFile.md",
     "02_Concepts/Apple.md",
@@ -227,8 +230,6 @@
     "00_System/Scripts",
     "02_Concepts/@CreationTimestamp.md",
     "02_Concepts/@GeneratedValue.md",
-    "Readme.md",
-    "03_Projects/Enterprise Content Board.md",
     "02_Concepts/Constraint.md",
     "02_Concepts/PostgreSQL.md",
     "02_Concepts/Liquibase.md",

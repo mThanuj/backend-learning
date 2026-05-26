@@ -6,7 +6,7 @@ tags:
 # Redis
 
 ## 💡 TL;DR
-- 
+- Used to cache data that is needed to be used again and again.
 
 ## 🛠️ Syntax / Code Example
 ```java
