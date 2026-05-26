@@ -7,6 +7,8 @@ tags:
 
 ## 💡 TL;DR
 - Used to cache data that is needed to be used again and again.
+- Used for computed data.
+- Decreses response time.
 
 ## 🛠️ Syntax / Code Example
 ```java
