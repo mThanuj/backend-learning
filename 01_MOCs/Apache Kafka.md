@@ -11,6 +11,8 @@ tags:
 
 ## 🏗️ Core Concepts
 - [[Event Streaming]]
+- [[Kafka Servers]]
+- [[Kafka Clients]]
 
 ## 🛠️ Configuration & Syntax
 - 
