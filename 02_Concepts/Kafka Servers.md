@@ -7,7 +7,7 @@ tags:
 
 ## 💡 TL;DR
 - Kafka is usually a cluster of one or more servers that can span multiple datacenters or cloud regions.
-- 
+- Some servers might run a storage layer called 
 
 ## 🛠️ Syntax / Code Example
 ```java
