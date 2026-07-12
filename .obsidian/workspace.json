@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "ee55f04f029b66ca",
+            "id": "2be9cfb94048cc89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Liskov Substitution Principle.md",
+                "file": "02_Concepts/Interface Segregation Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liskov Substitution Principle"
+              "title": "Interface Segregation Principle"
             }
           }
         ],
@@ -220,10 +220,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee55f04f029b66ca",
+  "active": "2be9cfb94048cc89",
   "lastOpenFiles": [
-    "02_Concepts/SOLID.md",
     "02_Concepts/Liskov Substitution Principle.md",
+    "02_Concepts/SOLID.md",
+    "02_Concepts/Interface Segregation Principle.md",
     "02_Concepts/Open Closed Principle.md",
     "02_Concepts/Open/Closed Principle.md",
     "02_Concepts/Single Responsibility Principle.md",
@@ -259,7 +260,6 @@
     "02_Concepts/Entity.md",
     "02_Concepts/@CreationTimestamp.md",
     "02_Concepts/Redis.md",
-    "02_Concepts/Primary Key.md",
     "Untitled.canvas"
   ]
 }

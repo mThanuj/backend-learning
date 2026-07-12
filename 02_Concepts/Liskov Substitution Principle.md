@@ -12,7 +12,7 @@ tags:
 	- If I have a parent class 'Bird' (it has a method 'fly') and child class 'Sparrow', it works for now.
 	- But if I have another child class 'Ostrich', it violates the 'fly' method as 'Ostrich' cannot fly.
 	- This is a design flaw.
-	- So, we 
+	- So, we can create a 'Bird' class, and a 'FlyingBird' child class to be used by the 'Sparrow' class for extension.
 
 ## 🛠️ Syntax / Code Example
 ```java
