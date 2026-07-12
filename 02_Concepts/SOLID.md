@@ -14,6 +14,7 @@ tags:
 - They are:
 	- Single Responsibility Principle
 	- Open/Closed Principle
+	- Liskov Substitution Principle
 
 ## 🛠️ Syntax / Code Example
 ```java
@@ -24,3 +25,4 @@ tags:
 
 - [[Single Responsibility Principle]]
 - [[Open Closed Principle]]
+- [[Liskov Substitution Principle]]
