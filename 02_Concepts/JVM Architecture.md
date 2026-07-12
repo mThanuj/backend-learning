@@ -23,8 +23,12 @@ tags:
 		- PC Register
 		- Native Method Stack
 	- Execution Engine:
-		- Interpreter
+		- Interpreter:
+			- Reads bytecode.
+			- One instruction at a time.
 		- JIT Compiler
+			- Instead of interpreting repeatedly, observes patterns.
+			- If a method is called 'N' times, it doesnt interpret again and again, but converts it into machine code and reuses it.
 		- Garbage Collector
 
 ## 🛠️ Syntax / Code Example
