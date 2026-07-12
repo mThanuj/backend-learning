@@ -21,6 +21,13 @@ tags:
 		- Then after garbage collection, sent to Old Generation.
 - Stack:
 	- One per thread.
+	- When a method is called, a 'Stack Frame' is created in the stack for it.
+	- Stack Frame contains:
+		- Local Variables
+		- Method parameters
+		- Return address
+		- 
+	- After the method returns, the 'Stack Frame' is removed.
 - Metaspace:
 	- Shared by all threads.
 - PC Register:
