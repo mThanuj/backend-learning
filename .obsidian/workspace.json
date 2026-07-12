@@ -207,6 +207,8 @@
   },
   "active": "be6a779ce8b7eccf",
   "lastOpenFiles": [
+    "assets/knowledge_graph.png",
+    "assets",
     "scripts/update_readme.py",
     "scripts/requirements.txt",
     "scripts/generate_graph.py",
@@ -242,8 +244,6 @@
     "02_Concepts/JDK.md",
     "01_MOCs/Spring Boot.md",
     "01_MOCs/Database.md",
-    "00_System/Scripts/sortList.js",
-    "00_System/Scripts",
     "Untitled.canvas"
   ]
 }
