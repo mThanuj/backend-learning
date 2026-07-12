@@ -1,9 +1,9 @@
 ---
-date: 2026-06-02 10:41
+date: 2026-07-12 08:49
 tags:
   - type/concept
 ---
-# Kafka Clients
+# Runtime Data Access
 
 ## 💡 TL;DR
 - 
@@ -15,4 +15,4 @@ tags:
 
 ## 🔗 Related Concepts
 
-- 
+- [[JVM Architecture]]
