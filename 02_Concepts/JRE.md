@@ -6,7 +6,11 @@ tags:
 # JRE
 
 ## 💡 TL;DR
-- 
+- JRE: Java Runtime Environment
+- It contains:
+	- JVM
+	- Core Java Libraries
+	- Runtime Files
 
 ## 🛠️ Syntax / Code Example
 ```java
@@ -15,4 +19,4 @@ tags:
 
 ## 🔗 Related Concepts
 
-- 
+- [[JVM]]
