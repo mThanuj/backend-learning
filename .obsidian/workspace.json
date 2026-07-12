@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_MOCs/System Design.md",
+                "file": "01_MOCs/Database.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "System Design"
+              "title": "Database"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_MOCs/System Design.md",
+                "file": "01_MOCs/Database.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System Design"
+              "title": "Outline of Database"
             }
           },
           {
@@ -238,8 +238,8 @@
   },
   "active": "c9d103424a782c6e",
   "lastOpenFiles": [
-    "02_Concepts/Kafka Servers.md",
     "01_MOCs/System Design.md",
+    "02_Concepts/Kafka Servers.md",
     "02_Concepts/Kafka Connect.md",
     "01_MOCs/Apache Kafka.md",
     "02_Concepts/Kafka Clients.md",
