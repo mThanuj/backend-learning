@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_MOCs/Java Core.md",
+                "file": "02_Concepts/Runtime Data Access.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Core"
-            }
-          },
-          {
-            "id": "9c212d237db41b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Concepts/OOP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OOP"
+              "title": "Runtime Data Access"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 715.5
+    "width": 1393.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +207,15 @@
   },
   "active": "52c15d1dc49470e4",
   "lastOpenFiles": [
-    "02_Concepts/OOP.md",
-    "01_MOCs/Java Core.md",
     "02_Concepts/Runtime Data Access.md",
     "02_Concepts/JVM Architecture.md",
+    "02_Concepts/JVM.md",
+    "02_Concepts/JRE.md",
+    "01_MOCs/Java Core.md",
+    "02_Concepts/Constraint.md",
+    "02_Concepts/Entity.md",
+    "02_Concepts/@CreationTimestamp.md",
+    "02_Concepts/OOP.md",
     "02_Concepts/Redis.md",
     "02_Concepts/Primary Key.md",
     "02_Concepts/PostgreSQL.md",
@@ -235,19 +225,14 @@
     "02_Concepts/Kafka Clients.md",
     "02_Concepts/Event Streaming.md",
     "01_MOCs/Apache Kafka.md",
-    "02_Concepts/JVM.md",
     "01_MOCs/Java Fundamentals.md",
     "02_Concepts/JDK.md",
-    "02_Concepts/JRE.md",
     "02_Concepts/DockerFile.md",
     "02_Concepts/Docker Container.md",
     "01_MOCs/Spring Boot.md",
     "01_MOCs/Database.md",
     "01_MOCs/System Design.md",
     "01_MOCs/Caching.md",
-    "Readme.md",
-    "03_Projects/Enterprise Content Board.md",
-    "01_MOCs/Docker.md",
     "00_System/Scripts/sortList.js",
     "00_System/Scripts",
     "00_System/Scripts/sortRelatedConcepts.js",
