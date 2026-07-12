@@ -6,11 +6,13 @@ tags:
 # JRE
 
 ## 💡 TL;DR
-- JRE: Java Runtime Environment
+- JRE: Java Runtime Environment.
 - It contains:
 	- JVM
 	- Core Java Libraries
 	- Runtime Files
+- There is no compiler.
+- JRE is only for running applications.
 
 ## 🛠️ Syntax / Code Example
 ```java

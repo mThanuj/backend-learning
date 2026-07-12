@@ -6,7 +6,16 @@ tags:
 # JDK
 
 ## 💡 TL;DR
-- 
+- JDK: Java Development Kit.
+- It is used by the DEVELOPER.
+- It contains:
+	- compiler (javac)
+	- JRE
+	- JVM
+	- Debugger
+	- Javadoc
+	- JAR tool
+	- Other development tools
 
 ## 🛠️ Syntax / Code Example
 ```java
@@ -15,4 +24,5 @@ tags:
 
 ## 🔗 Related Concepts
 
-- 
+- [[JRE]]
+- [[JVM]]

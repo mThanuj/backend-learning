@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/JRE.md",
+                "file": "02_Concepts/JDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JRE"
+              "title": "JDK"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,12 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ca520e12c69195c",
+  "active": "c9940d928c2c889b",
   "lastOpenFiles": [
-    "02_Concepts/JDK.md",
-    "02_Concepts/DockerFile.md",
-    "02_Concepts/JRE.md",
     "02_Concepts/JVM.md",
+    "02_Concepts/JDK.md",
+    "02_Concepts/JRE.md",
+    "02_Concepts/DockerFile.md",
     "01_MOCs/Java Fundamentals.md",
     "02_Concepts/Docker Container.md",
     "01_MOCs/Spring Boot.md",
