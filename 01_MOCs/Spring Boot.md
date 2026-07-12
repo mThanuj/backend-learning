@@ -19,4 +19,4 @@ tags:
 - 
 
 ## 🔗 Related Domains
-- 
+- [[Java Fundamentals]]
