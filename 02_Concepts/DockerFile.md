@@ -44,4 +44,4 @@ docker build -t my-app .
 ```
 
 ## 🔗 Related Concepts
-- [[Docker Image]]
+- 
