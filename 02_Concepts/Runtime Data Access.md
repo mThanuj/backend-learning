@@ -11,7 +11,14 @@ tags:
 	- It stores all objects and arrays.
 	- Since all threads access heap, we need synchronization.
 	- Heap Generations:
-		- 
+		- Young Generation:
+			- Eden: New objects are created in here.
+			- Survivor 0
+			- Survivor 1
+			- ...
+		- Old Generation
+		- Objects that survive multiple garbage collections move upward in 'Survivor X' category.
+		- Then after garbage collection, sent to Old Generation.
 - Stack:
 	- One per thread.
 - Metaspace:
