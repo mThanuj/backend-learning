@@ -22,4 +22,4 @@ tags:
 - [[Encapsulation]]
 - [[Abstraction]]
 - [[Inheritance]]
-- [[Polymorphish]]
+- [[Polymorphism]]
