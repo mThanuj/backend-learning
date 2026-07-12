@@ -16,7 +16,16 @@ tags:
 			- Invalid memory access.
 			- Illegal instructions.
 			- Bytecode format.
-		- 
+	- Runtime Data Access:
+		- Heap
+		- Stack
+		- Metaspace
+		- PC Register
+		- Native Method Stack
+	- Execution Engine:
+		- Interpreter
+		- JIT Compiler
+		- Garbage Collector
 
 ## 🛠️ Syntax / Code Example
 ```java

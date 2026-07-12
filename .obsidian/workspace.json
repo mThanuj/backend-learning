@@ -205,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba430c45ca8338dc",
+  "active": "52c15d1dc49470e4",
   "lastOpenFiles": [
-    "02_Concepts/JVM.md",
     "02_Concepts/JVM Architecture.md",
+    "02_Concepts/JVM.md",
     "01_MOCs/Java Fundamentals.md",
     "02_Concepts/JDK.md",
     "02_Concepts/JRE.md",
