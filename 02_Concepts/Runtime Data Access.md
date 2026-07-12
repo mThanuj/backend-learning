@@ -39,8 +39,11 @@ tags:
 		- Runtime constant pool.
 - PC Register:
 	- One per thread.
+	- Stores current instruction being executed.
 - Native Method Stack:
 	- One per thread.
+	- Java sometimes calls native code (C / C++ etc).
+	- This is used for that.
 
 ## 🛠️ Syntax / Code Example
 ```java
