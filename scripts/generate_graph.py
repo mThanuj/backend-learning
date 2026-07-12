@@ -13,6 +13,7 @@ IGNORE = {
     "assets",
     "scripts",
     "__pycache__",
+    "00_System",
 }
 
 graph = nx.Graph()

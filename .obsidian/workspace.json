@@ -207,6 +207,12 @@
   },
   "active": "be6a779ce8b7eccf",
   "lastOpenFiles": [
+    "scripts/update_readme.py",
+    "scripts/requirements.txt",
+    "scripts/generate_graph.py",
+    "scripts",
+    "00_System/assets/knowledge_graph.png",
+    "00_System/assets",
     "00_System/Scripts/requirements.txt",
     "00_System/Scripts/update_readme.py",
     "00_System/Scripts/generate_graph.py",
@@ -238,11 +244,6 @@
     "01_MOCs/Database.md",
     "00_System/Scripts/sortList.js",
     "00_System/Scripts",
-    "00_System/Scripts/sortRelatedConcepts.js",
-    "00_System/Scripts/New Text Document.txt",
-    "00_System/Scripts",
-    "Untitled.canvas",
-    "Assets",
-    "03_Projects"
+    "Untitled.canvas"
   ]
 }
