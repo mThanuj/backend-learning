@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Concepts/Docker Compose.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker Compose"
+              "title": "Readme"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52c15d1dc49470e4",
+  "active": "be6a779ce8b7eccf",
   "lastOpenFiles": [
+    "New folder",
     "02_Concepts/Docker Compose.md",
     "02_Concepts/Docker Container.md",
     "02_Concepts/DockerFile.md",
@@ -232,7 +233,6 @@
     "02_Concepts/JDK.md",
     "01_MOCs/Spring Boot.md",
     "01_MOCs/Database.md",
-    "01_MOCs/System Design.md",
     "00_System/Scripts/sortList.js",
     "00_System/Scripts",
     "00_System/Scripts/sortRelatedConcepts.js",
