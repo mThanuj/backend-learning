@@ -10,7 +10,7 @@ tags:
 - You only know to use the method, but not how its internally implemented.
 - For Example:
 	- You know how to drive a car, but we dont need to know how the fuel injection works.
-	- Another example is, in Spring Boot, whenever we want to save a entity using a repository we do Repository.save(entity), but we dont care or know how hibernate is generatin
+	- Another example is, in Spring Boot, whenever we want to save a entity using a repository we do Repository.save(entity), but we dont care or know how hibernate is generating and running the sql internally.
 
 ## 🛠️ Syntax / Code Example
 ```java

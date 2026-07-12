@@ -9,6 +9,8 @@ tags:
 - The four pillars of OOP are:
 	- Encapsulation
 	- Abstraction
+	- Inheritance
+	- Polymorphism
 
 ## 🛠️ Syntax / Code Example
 ```java
@@ -19,3 +21,5 @@ tags:
 
 - [[Encapsulation]]
 - [[Abstraction]]
+- [[Inheritance]]
+- [[Polymorphish]]
