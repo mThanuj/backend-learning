@@ -6,8 +6,9 @@ tags:
 # Encapsulation
 
 ## 💡 TL;DR
-- Used to bundle data and methods together.
-- Also to hide internal implementation.
+- Encapsulation is the process of wrapping data and methods into a single unit while restricting direct access to the internal state using access modifiers.
+- For example:
+	- In a real spring boot project, UserService does not expose the repository directly, but uses its methods to modify the data.
 
 ## 🛠️ Syntax / Code Example
 ```java

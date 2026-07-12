@@ -8,7 +8,7 @@ tags:
 ## 💡 TL;DR
 - The four pillars of OOP are:
 	- Encapsulation
-	- 
+	- Abstraction
 
 ## 🛠️ Syntax / Code Example
 ```java
@@ -18,3 +18,4 @@ tags:
 ## 🔗 Related Concepts
 
 - [[Encapsulation]]
+- [[Abstraction]]
