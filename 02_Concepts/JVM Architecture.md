@@ -38,4 +38,4 @@ tags:
 
 ## 🔗 Related Concepts
 
-- [[JVM]]
+- [[Runtime Data Access]]

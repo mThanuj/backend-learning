@@ -23,4 +23,4 @@ tags:
 
 ## 🔗 Related Concepts
 
-- 
+- [[JVM Architecture]]

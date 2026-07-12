@@ -15,4 +15,4 @@ tags:
 ```
 
 ## 🔗 Related Concepts
-- [[Docker Image]]
+- 

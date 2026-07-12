@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "tag:#type/concept  ",
+      "query": "tag:#type/concept",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 0.739583333333333,
   "linkDistance": 402,
-  "scale": 0.5087618855792502,
+  "scale": 1.4019828977760769,
   "close": true
 }
