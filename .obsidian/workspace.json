@@ -207,6 +207,9 @@
   },
   "active": "be6a779ce8b7eccf",
   "lastOpenFiles": [
+    "00_System/Scripts/requirements.txt",
+    "00_System/Scripts/update_readme.py",
+    "00_System/Scripts/generate_graph.py",
     "New folder",
     "02_Concepts/Docker Compose.md",
     "02_Concepts/Docker Container.md",
@@ -240,9 +243,6 @@
     "00_System/Scripts",
     "Untitled.canvas",
     "Assets",
-    "03_Projects",
-    "02_Concepts",
-    "01_MOCs",
-    "00_System/Templates"
+    "03_Projects"
   ]
 }
