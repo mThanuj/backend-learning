@@ -13,6 +13,7 @@ tags:
 	- Less coupled
 - They are:
 	- Single Responsibility Principle
+	- Open/Closed Principle
 
 ## 🛠️ Syntax / Code Example
 ```java
