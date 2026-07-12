@@ -23,3 +23,4 @@ tags:
 ## 🔗 Related Concepts
 
 - [[Single Responsibility Principle]]
+- [[Open Closed Principle]]
