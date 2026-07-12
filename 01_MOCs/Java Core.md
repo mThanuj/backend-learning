@@ -11,6 +11,7 @@ tags:
 
 ## 🏗️ Core Concepts
 - [[OOP]]
+- [[SOLID]]
 
 ## 🛠️ Configuration & Syntax
 - 
