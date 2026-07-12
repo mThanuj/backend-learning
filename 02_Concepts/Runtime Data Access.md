@@ -15,6 +15,8 @@ tags:
 			- Eden: New objects are created in here.
 			- Survivor 0
 			- Survivor 1
+			- .
+			- ..
 			- ...
 		- Old Generation
 		- Objects that survive multiple garbage collections move upward in 'Survivor X' category.
@@ -23,13 +25,18 @@ tags:
 	- One per thread.
 	- When a method is called, a 'Stack Frame' is created in the stack for it.
 	- Stack Frame contains:
-		- Local Variables
-		- Method parameters
-		- Return address
-		- 
+		- Local Variables.
+		- Method Parameters.
+		- Return Address.
+		- Partial Computation.
 	- After the method returns, the 'Stack Frame' is removed.
 - Metaspace:
 	- Shared by all threads.
+	- Stores:
+		- Class metadata.
+		- Method metadata.
+		- Static method information.
+		- Runtime constant pool.
 - PC Register:
 	- One per thread.
 - Native Method Stack:
