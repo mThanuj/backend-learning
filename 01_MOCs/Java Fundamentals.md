@@ -10,7 +10,9 @@ tags:
 ---
 
 ## 🏗️ Core Concepts
-- 
+- [[JVM]]
+- [[JRE]]
+- [[JDK]]
 
 ## 🛠️ Configuration & Syntax
 - 
