@@ -71,7 +71,7 @@ class Producer extends Thread {
 class Consumer extends Thread {
 	private final Buffer buffer;
 	
-	Producer(Buffer buffer) {
+	Consumer(Buffer buffer) {
 		this.buffer = buffer;
 	}
 	
