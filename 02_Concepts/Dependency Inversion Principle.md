@@ -10,7 +10,17 @@ tags:
 
 ## 🛠️ Syntax / Code Example
 ```java
+❌
+class UserService {
 
+    MySqlRepository repo = new MySqlRepository();
+
+}
+
+✅
+interface UserRepository
+
+// and then make MySqlRepository or MongoRepository to be extended with UserRepository.
 ```
 
 ## 🔗 Related Concepts
