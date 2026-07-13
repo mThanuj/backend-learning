@@ -11,6 +11,7 @@ tags:
 
 ## 🏗️ Core Concepts
 - [[Producer Consumer Problem]]
+- [[Deadlock]]
 
 ## 🛠️ Configuration & Syntax
 - 
