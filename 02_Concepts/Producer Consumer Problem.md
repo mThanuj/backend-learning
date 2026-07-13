@@ -13,7 +13,10 @@ tags:
 	- If the buffer is full, Producer must wait.
 	- If the buffer is empty, Consumer must wait.
 - Real world examples:
-	- 
+	- Kafka Producer -> Kafka Consumer
+	- RabbitMQ Publisher -> RabbitMQ Consumer
+	- Background Job Queue
+	- Print Queue
 
 ## 🛠️ Syntax / Code Example
 ```java
