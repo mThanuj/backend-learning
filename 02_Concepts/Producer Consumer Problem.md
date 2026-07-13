@@ -63,8 +63,40 @@ class Producer extends Thread {
 				Thread.sleep(100);
 			}
 		} catch(Exception e) {
-			System.err.println("");
+			System.err.println(e.getMessage());
 		}
+	}
+}
+
+class Consumer extends Thread {
+	private final Buffer buffer;
+	
+	Producer(Buffer buffer) {
+		this.buffer = buffer;
+	}
+	
+	@Override
+	public void run() {
+		try {
+			while(true) {
+				buffer.consume();
+				Thread.sleep(300);
+			}
+		} catch(Exception e) {
+			System.err.println(e.getMessage());
+		}
+	}
+}
+
+public class ProducerConsumer {
+	public static void main(String[] args) {
+		Buffer buffer = new Buffer(5);
+		
+		Producer producer = new Producer(buffer);
+		Consumer consumer = new Consumer(buffer);
+		
+		producer.start();
+		consumer.start();
 	}
 }
 ```
