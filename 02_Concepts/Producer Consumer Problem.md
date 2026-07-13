@@ -12,11 +12,16 @@ tags:
 ```java
 import java.util.*;
 
-class ProducerConsumerProblem {
-	Queue<Integer> queue = new LinkedList<>();
-	int capacity = 0;
+class Buffer {
+	private final Queue<Integer> queue;
+	private final int capacity;
 	
-	public void produce(int value) throws Exception {
+	Buffer(int capacity) {
+		this.queue = new LinkedList<>();
+		this.capacity = capacity;
+	}
+	
+	public synchronized void produce(int value) throws Exception {
 		while(queue.size() == capacity) {
 			wait();
 		}
