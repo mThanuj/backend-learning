@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "SOLID"
             }
-          },
-          {
-            "id": "2be9cfb94048cc89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Concepts/Interface Segregation Principle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interface Segregation Principle"
-            }
-          },
-          {
-            "id": "ab5bf94783ac6a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Concepts/Dependency Inversion Principle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dependency Inversion Principle"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,7 +205,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab5bf94783ac6a94",
+  "active": "23c4ce7e70c4858c",
   "lastOpenFiles": [
     "02_Concepts/Interface Segregation Principle.md",
     "02_Concepts/Dependency Inversion Principle.md",
