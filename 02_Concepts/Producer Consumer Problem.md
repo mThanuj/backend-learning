@@ -23,21 +23,31 @@ class Buffer {
 	
 	public synchronized void produce(int value) throws Exception {
 		while(queue.size() == capacity) {
+			System.out.println("Buffer full -> Producer waiting...");
 			wait();
 		}
 		
 		queue.add(value);
+		System.out.println("Produced: " + value);
+		
 		notifyAll();
 	}
 	
-	public int consume() throws Exception {
+	public synchronized int consume() throws Exception {
 		while(queue.isEmpty()) {
+			System.out.println("Buffer empty -> Consumer waiting...");
 			wait();
 		}
 		
-		queue.pop();
+		int value = queue.remove();
+		System.out.println("Consumed: " + value);
+		
 		notifyAll();
 	}
+}
+
+class Producer extends Thread {
+	priva
 }
 ```
 
