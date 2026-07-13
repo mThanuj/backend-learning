@@ -25,7 +25,14 @@ class ProducerConsumerProblem {
 		notifyAll();
 	}
 	
-	public void consume() throws Exce
+	public int consume() throws Exception {
+		while(queue.isEmpty()) {
+			wait();
+		}
+		
+		queue.pop();
+		notifyAll();
+	}
 }
 ```
 
