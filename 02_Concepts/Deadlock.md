@@ -31,9 +31,9 @@ public class DeadlockExample {
 			}
 		});
 		
-		Thread t1 = new Thread(() -> {
+		Thread t2 = new Thread(() -> {
 			synchronized(LOCK2) {
-				System.out.println("Thread 2 aquired LOCK1");
+				System.out.println("Thread 2 aquired LOCK2");
 				
 				try {
 					Thread.sleep(100);
@@ -41,11 +41,14 @@ public class DeadlockExample {
 					System.err.println(e.getMessage());
 				}
 				
-				synchronized(LOCK2) {
-					System.out.println("Thread 1 aquired LOCK2");
+				synchronized(LOCK1) {
+					System.out.println("Thread 2 aquired LOCK1");
 				}
 			}
 		});
+		
+		t1.start();
+		t2.start();
 	}
 }
 ```
