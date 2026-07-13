@@ -23,7 +23,7 @@ class Buffer {
 	
 	public synchronized void produce(int value) throws Exception {
 		while(queue.size() == capacity) {
-			System.out.println("Buffer full -> Producer waiting...");
+			System.err.println("Buffer full -> Producer waiting...");
 			wait();
 		}
 		
@@ -35,7 +35,7 @@ class Buffer {
 	
 	public synchronized int consume() throws Exception {
 		while(queue.isEmpty()) {
-			System.out.println("Buffer empty -> Consumer waiting...");
+			System.err.println("Buffer empty -> Consumer waiting...");
 			wait();
 		}
 		
@@ -47,7 +47,25 @@ class Buffer {
 }
 
 class Producer extends Thread {
-	priva
+	private final Buffer buffer;
+	
+	Producer(Buffer buffer) {
+		this.buffer = buffer;
+	}
+	
+	@Override
+	public void run() {
+		int value = 1;
+		
+		try {
+			while(true) {
+				buffer.produce(value++);
+				Thread.sleep(100);
+			}
+		} catch(Exception e) {
+			System.err.println("");
+		}
+	}
 }
 ```
 
