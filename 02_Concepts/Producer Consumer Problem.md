@@ -6,7 +6,14 @@ tags:
 # Producer Consumer Problem
 
 ## 💡 TL;DR
-- 
+- Problem Statement:
+	- There is a shared buffer with limited capacity.
+	- Producer produces items and puts them into the buffer.
+	- Consumer consumes items from the buffer.
+	- If the buffer is full, Producer must wait.
+	- If the buffer is empty, Consumer must wait.
+- Real world examples:
+	- 
 
 ## 🛠️ Syntax / Code Example
 ```java
