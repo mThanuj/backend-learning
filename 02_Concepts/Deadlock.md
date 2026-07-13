@@ -7,6 +7,11 @@ tags:
 
 ## 💡 TL;DR
 - A deadlock occurs when two or more threads wait for each other indefinitely and none of them can proceed.
+- A deadlock can occur if all 4 conditions (COFFMAN CONDITIONS) are true:
+	- Mutual Exclusion: Only one thread can hold the lock.
+	- Hold and Wait: Thread already has a lock and waits for another.
+	- No Preemption: Java cannot forcefully take a lock away, only owner threads can release.
+	- Circular Wait
 
 ## 🛠️ Syntax / Code Example
 ```java
