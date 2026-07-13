@@ -11,7 +11,7 @@ tags:
 	- Mutual Exclusion: Only one thread can hold the lock.
 	- Hold and Wait: Thread already has a lock and waits for another.
 	- No Preemption: Java cannot forcefully take a lock away, only owner threads can release.
-	- Circular Wait
+	- Circular Wait: A --waits for--> B --waits for--> C --waits for--> A
 
 ## 🛠️ Syntax / Code Example
 ```java
